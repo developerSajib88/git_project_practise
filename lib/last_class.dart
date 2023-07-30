@@ -1,5 +1,7 @@
 class MyClass {
 
-  void thirdClass(){}
+  void myMethod(){
+
+  }
 
 }
